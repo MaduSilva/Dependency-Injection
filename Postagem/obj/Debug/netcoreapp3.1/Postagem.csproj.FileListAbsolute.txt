@@ -1,0 +1,13 @@
+C:\Users\marri\Downloads\Maria Eduarda\Portifólio\TreinoInjecao\Postagem\bin\Debug\netcoreapp3.1\Postagem.exe
+C:\Users\marri\Downloads\Maria Eduarda\Portifólio\TreinoInjecao\Postagem\bin\Debug\netcoreapp3.1\Postagem.deps.json
+C:\Users\marri\Downloads\Maria Eduarda\Portifólio\TreinoInjecao\Postagem\bin\Debug\netcoreapp3.1\Postagem.runtimeconfig.json
+C:\Users\marri\Downloads\Maria Eduarda\Portifólio\TreinoInjecao\Postagem\bin\Debug\netcoreapp3.1\Postagem.runtimeconfig.dev.json
+C:\Users\marri\Downloads\Maria Eduarda\Portifólio\TreinoInjecao\Postagem\bin\Debug\netcoreapp3.1\Postagem.dll
+C:\Users\marri\Downloads\Maria Eduarda\Portifólio\TreinoInjecao\Postagem\bin\Debug\netcoreapp3.1\Postagem.pdb
+C:\Users\marri\Downloads\Maria Eduarda\Portifólio\TreinoInjecao\Postagem\obj\Debug\netcoreapp3.1\Postagem.csprojAssemblyReference.cache
+C:\Users\marri\Downloads\Maria Eduarda\Portifólio\TreinoInjecao\Postagem\obj\Debug\netcoreapp3.1\Postagem.AssemblyInfoInputs.cache
+C:\Users\marri\Downloads\Maria Eduarda\Portifólio\TreinoInjecao\Postagem\obj\Debug\netcoreapp3.1\Postagem.AssemblyInfo.cs
+C:\Users\marri\Downloads\Maria Eduarda\Portifólio\TreinoInjecao\Postagem\obj\Debug\netcoreapp3.1\Postagem.csproj.CoreCompileInputs.cache
+C:\Users\marri\Downloads\Maria Eduarda\Portifólio\TreinoInjecao\Postagem\obj\Debug\netcoreapp3.1\Postagem.dll
+C:\Users\marri\Downloads\Maria Eduarda\Portifólio\TreinoInjecao\Postagem\obj\Debug\netcoreapp3.1\Postagem.pdb
+C:\Users\marri\Downloads\Maria Eduarda\Portifólio\TreinoInjecao\Postagem\obj\Debug\netcoreapp3.1\Postagem.genruntimeconfig.cache
